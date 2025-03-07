@@ -1,8 +1,16 @@
 # Ref_Code
-Reference code for Digital IC and FPGA Design.
-For complete Digital IC and FPGA design course, please browse to Udemy:
-Chapter 1: CMOS Gates and Arithmetic Datapath, https://www.udemy.com/course/digital-icfpga-design-p1-cmos-gates-arithmetic-datapath/?referralCode=005DA1FEF9D390C0CCB7
+Reference code for VLSI and FPGA Design Course.
+For complete VLSI and FPGA design course, please check:
+Free on Youtube:
+Chapter 1: CMOS Theory and Arithmetic Datapath:
+https://www.youtube.com/watch?v=cbBqeKMjCVI&list=PLtu65peUvdoMQ4zw3s0_lqkRqBXLzTR3_
+Chapter 2: Verilog for Design and Verification:
+https://www.youtube.com/watch?v=dB-A1Zqsr60&list=PLtu65peUvdoO17ar0aoSTaoCnBUHu9BK1
 
-Chapter 2: Verilog for Design and Verification, https://www.udemy.com/course/icfpga-design-p2-verilog-for-design-and-verification/?referralCode=6C6E0AFD06C1B3C76515
+Go deep on Udemy:
+Chapter 3: Common Used Hardware Architectures:
+https://www.udemy.com/course/digital-icfpga-design-p3common-used-hardware-architectures/?referralCode=365C67358DCDD5237CCD
+Chapter 4: STA && DC Synthesis:
+https://www.udemy.com/course/digital-icfpga-design-p4-sta-dc-synthesis/?referralCode=F99007C1E5B740E11E03
 
-Chapter 3: Common Used Hardware Architectures, https://www.udemy.com/course/digital-icfpga-design-p3common-used-hardware-architectures/?referralCode=365C67358DCDD5237CCD
+Wish you will like it.
